@@ -1,0 +1,6 @@
+push int16(10)
+push int32(-4)
+dump
+pow
+dump
+exit

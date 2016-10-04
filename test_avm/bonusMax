@@ -1,0 +1,8 @@
+push int16(156)
+push int32(-23423)
+push float(123412.123)
+push double(-9456945.95699)
+dump
+max
+dump
+exit

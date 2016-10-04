@@ -1,0 +1,8 @@
+push int16(15)
+push int32(30)
+push float(44.567)
+push double(60.433)
+dump
+avg
+dump
+exit
