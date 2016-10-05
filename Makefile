@@ -2,8 +2,7 @@ NAME = avm
 
 CC = g++
 
-#CFLAGS = -Wall -Wextra -Werror
-CFLAGS = 
+CFLAGS = -Wall -Wextra -Werror
 
 MFLAGS =
 
